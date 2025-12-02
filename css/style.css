@@ -7,15 +7,15 @@
   font-family: "Rubik", sans-serif;
 }
 :root {
-  --font-color-main: #332464;
+  --font-color-main: #9a87d8;
   --white-color: #fff;
 }
 body {
-  background-color: #B4D6F3;
+  background-color: #4bdf5a;
 }
 
 #screen {
-  background-color: #E0EEFA;
+  background-color: #246aa7;
   width: 100%;
   height: 100%;
 }
